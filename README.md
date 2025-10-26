@@ -5,7 +5,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 
 ## Project Steps
-### 1. Install & Import Required Librarires
+### 1. Install & Import Required Libraries
 ### 2. Extract Data Using Kaggle API
 ### 3. Data Cleaning
 ### 4. Feature Engineering
